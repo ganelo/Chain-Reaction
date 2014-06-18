@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 570bc303dc99df8458845cd0b0032b64
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - exploded_mat: {fileID: 2100000, guid: f4aa8b19e8d47264299c6ed0a0ccbdd0, type: 2}
+  - score_text: {fileID: 13200000, guid: 80aaa9d77bd342e4e9e5c1e4a6c92f40, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
